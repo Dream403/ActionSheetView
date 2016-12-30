@@ -1,4 +1,10 @@
-
+//
+//  GoodsOwnCertificationViewController.m
+//  DDKD
+//
+//  Created by 小虾米 on 2016/12/28.
+//  Copyright © 2016年 shiqingming. All rights reserved.
+//
 #import <UIKit/UIKit.h>
 
 @class ZLActionSheetView;
